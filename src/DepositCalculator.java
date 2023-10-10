@@ -58,6 +58,4 @@ public class DepositCalculator {
 
         return value;
     }
-
-
 }
